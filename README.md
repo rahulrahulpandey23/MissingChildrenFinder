@@ -6,7 +6,7 @@ Missing Children Finder is an AI based Face Recognition Android Application whic
 * According to a recent RTI reply from the Delhi Police, 22 children go missing in Delhi every day.
 * The missing children are seen begging on streets, working on construction sites and on the agricultural fields.
 
-### Project's Aim and Impact:
+### Project's Aim and Expectations:
 * This project is designed to protect the fundamental rights of children, a childhood should not include begging on streets, working in agricultural fields and construction sites.
 * This project can be used against the cases like kidnapping, child labour, organ trade etc.
 
