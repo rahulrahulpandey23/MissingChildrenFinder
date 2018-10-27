@@ -21,7 +21,7 @@ Missing Children Finder is an AI based Face Recognition Android Application whic
 
 
 ## Snapshots of the Application:
-//uploading soon...
+//uploading soon....
 
 
 ## Future Extention of this Project:
