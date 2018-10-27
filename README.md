@@ -3,8 +3,8 @@ Missing Children Finder is an AI based Face Recognition Android Application whic
 
 ### Some Facts and Figures:
 * The data, available with the Ministry of Home Affairs, shows that the number of untraced children in the country (India) has increased by 84% between 2013 and 2015.
-* According to a recent RTI reply from the Delhi Police, 22 children go missing in Delhi every day.
-* The missing children are seen begging on streets, working on construction sites and on the agricultural fields.
+* According to a recent RTI reply from the Delhi Police, 22 children go missing in Delhi every day. 
+* The missing children are seen begging on streets, working on construction sites and on the agricultural fields. :sob:
 
 ### Project's Aim and Expectations:
 * This project is designed to protect the fundamental rights of children, a childhood should not include begging on streets, working in agricultural fields and construction sites.
